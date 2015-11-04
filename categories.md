@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Themen
+title: Categories
 permalink: categories/index.html
 ---
 
