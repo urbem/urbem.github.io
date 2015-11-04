@@ -4,7 +4,7 @@ title: Categories
 permalink: categories/index.html
 ---
 
-Hier findet sich eine Liste aller Themen, zu denen Artikel in meinem Blog existieren. Ein Klick auf das Thema führt zur Liste der mit diesem Thema assoziierten Beiträge:
+Everything is the same, but you are not here, and I still am. In separation the one who goes away suffers less than the one who stays behind
 
 <ul id="categories">
 {% for category in site.categories %}
