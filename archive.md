@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artikel
+title: Archive
 permalink: archive/index.html
 ---
 
