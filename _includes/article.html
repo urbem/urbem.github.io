@@ -1,0 +1,42 @@
+<article>
+  <header>
+    <h2>{% if is_single %}{{ post.title }}{% else %}<a href="{{ post.url }}">{{ post.title }}</a>{% endif %}</h2>
+    <ul>
+      <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:'%d. %B %Y' | replace:'January','Januar' | replace:'February','Februar' |replace:'March','März' | replace:'May','Mai' | replace:'June','Juni' | replace:'July','Juli' | replace:'October','Oktober' | replace:'December','Dezember' }}</time></li>
+      {% if post.categories != empty %}
+      <li>
+        {% for category in post.categories %}
+          <a href="/categories/#{{ category }}" title="Artikel zum Thema {{ category | capitalize }}" class="tag">{{ category | capitalize }}</a>{% unless category == post.categories.last %}, {% endunless %}
+        {% endfor %}
+      </li>
+      {% endif %}
+      <li>{{ content | number_of_words }} Wörter</li>
+      <li><a href="{{ post.url }}#comments" data-disqus-identifier="{{ site.url }}{{ post.url }}">Kommentare</a></li>
+      {% if is_single %}<li><a href="{{ post.url }}">Permalink</a></li>{% endif %}
+    </ul>          
+  </header>
+
+  {{ content }}
+
+  {% if is_single and site.disqus_username %}
+  <section>
+    <h3>Kommentare</h3>
+    <div id="comments">
+      {% include disqus_comments.html %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if is_single %}
+  <footer>
+    <nav role="related">
+      <h3>Verwandte Artikel</h3>
+      <ul>
+        {% for related in site.related_posts limit:3 %}
+        <li><a href="{{ related.url }}">{{ related.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </footer>
+  {% endif %}
+</article>

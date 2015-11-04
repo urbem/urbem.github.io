@@ -1,0 +1,27 @@
+# jekyll configuration
+# --------------------
+permalink: /:year/:month/:day/:title/
+highlighter: pygments
+paginate: 3
+markdown: kramdown
+exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh', 'CNAME']
+
+# site configuration
+# ------------------
+url: http://urbem.github.io
+title: 西城
+description: 'How should I greet, with silence and tears'
+keywords: 'Life, Love, Music, Moive, Book, Reader'
+author: Hang Yan
+email: yanhangyhy@gmail.com
+
+# google analytics
+# ----------------
+
+# github ribbon
+# -------------
+github_username: hangyan
+
+# comments with disqus
+# --------------------
+disqus_username: yanhangyhy

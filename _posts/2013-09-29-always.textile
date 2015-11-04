@@ -1,0 +1,22 @@
+---
+layout: post
+date: 2013-09-29  10:19:00
+title: Always
+---
+<p>
+In Harry Potter and the Philosopher's Stone, the first thing Snape asks Harry in Potions class is,
+
+"Potter! What would I get if I added powdered root of asphodel to an infusion of wormwood?"
+
+According to the Victorian Language of Flowers [1], asphodel(百合之一种) is a type of lily(百合花) meaning
+'my regrets follow you to the grave'
+and wormwood(苦艾) means
+'absence'and symbolizes bitter sorrow.
+The entire question has a hidden meaning of
+"I bitterly regret Lily's death".
+
+
+Professor Albus Dumbledore: Lily... after all this time?
+Professor Severus Snape: Always.
+
+</p>

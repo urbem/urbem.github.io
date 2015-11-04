@@ -1,0 +1,5 @@
+<ul>
+{% for profile in site.data.profiles %}
+  <li><a href="{{profile.url}}"><strong>{{profile.service}}</strong>/{{profile.username}}</a></li>
+{% endfor %}
+</ul>
