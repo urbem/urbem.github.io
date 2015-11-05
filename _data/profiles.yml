@@ -1,4 +1,7 @@
 - service: github
   username: hangyan
   url: http://www.github.com/hangyan
+- service: douban
+  username: yayu
+  url: http://book.douban.com/people/yanhangyhy/collect
 
