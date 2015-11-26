@@ -8,5 +8,5 @@ permalink: links/index.html
 * [一首老歌](http://music.163.com/#/song?id=31673658)
 * [一部电影](http://detachment-film.com/)
 * [一个混剪](http://www.vmovier.com/26574/)
-
+* [一张照片](https://www.flickr.com/photos/36900248@N05/6880813566)
 
