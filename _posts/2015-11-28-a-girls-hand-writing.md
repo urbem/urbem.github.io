@@ -8,4 +8,3 @@ comments: true
 ---
 
 ![](http://urbem.github.io/images/hw/gw-1.jpg)
-![](http://urbem.github.io/images/hw/gw-2.jpg)
