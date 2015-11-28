@@ -4,4 +4,6 @@
 - service: douban
   username: yayu
   url: http://book.douban.com/people/yanhangyhy/collect
-
+- service: tec-blog
+  username: yayu
+  url: http://hyan.in/
