@@ -4,8 +4,6 @@ title: About
 permalink: about/index.html
 ---
 
-我经常被自己的各种无聊念头感动得热泪盈眶
-
 我所有的自负皆来自我的自卑，
 
 所有的英雄气概都来自于我的软弱。
