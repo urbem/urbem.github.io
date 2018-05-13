@@ -7,7 +7,7 @@ categories:
 comments: true
 ---
 这是在家里的几天
-<!--more-->
+
 
 
 

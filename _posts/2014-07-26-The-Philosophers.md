@@ -6,7 +6,7 @@ title: The Philosophers
 
 长发
 
-<!--more-->
+
 ![](/images/the-philosophers/1.jpg)
 
 冷漠  

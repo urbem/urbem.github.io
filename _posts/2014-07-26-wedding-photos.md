@@ -6,7 +6,7 @@ title: 婚纱照
 
 Quora上的一个故事。妻子去世，和女儿重拍的婚纱照.
 
-<!--more-->
+
 ![](/images/wedding/1.jpg)  
 ![](/images/wedding/2.jpg)  
 ![](/images/wedding/3.jpg)  
