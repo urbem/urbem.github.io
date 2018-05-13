@@ -1,7 +1,7 @@
 # jekyll configuration
 # --------------------
 permalink: /:year/:month/:day/:title/
-highlighter: pygments
+highlighter: rouge
 paginate: 1
 markdown: kramdown
 exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh', 'CNAME']
