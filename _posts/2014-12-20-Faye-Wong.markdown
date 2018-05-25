@@ -2,7 +2,7 @@
 layout: post
 title: 王菲的歌
 date: 2014-12-20  14:32:00
-categories: muisc
+categories: music
 ---
 我决定做一个王菲的歌迷。
 
