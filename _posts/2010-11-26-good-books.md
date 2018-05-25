@@ -3,7 +3,7 @@ layout: post
 title: 什么样的书才是好书？
 date: 2010-11-26
 categories:
-- books
+- 读书
 description:
 comments: true
 ---
