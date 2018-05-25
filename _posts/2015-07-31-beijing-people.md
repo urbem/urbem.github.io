@@ -4,6 +4,7 @@ title: 北京 人
 date: 2015-07-31
 categories:
 - people
+- 城市
 comments: true
 ---
 合肥太土，所以希望从北京看到“不土”，但最终看来仍是土的多，只不过不土也不少。
