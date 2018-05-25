@@ -2,6 +2,8 @@
 layout: post
 title: 昌平
 date: 2014-10-21 23:58:00
+categories:
+ - 北京
 ---
 
 
