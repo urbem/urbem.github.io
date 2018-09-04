@@ -3,7 +3,7 @@ layout: post
 title: 火车穿过的城市
 date: 2015-09-03
 categories:
-- city
+- 城市
 comments: true
 ---
 

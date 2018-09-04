@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 人类和机器人的未来
-category: philosophy
+category: 思考
 tags: [philosophy,technology,robot]
 imagefeature:
 comments: true
