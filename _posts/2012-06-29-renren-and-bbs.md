@@ -3,7 +3,7 @@ layout: post
 title: 人人与BBS
 date: 2012-06-29
 categories:
-- network
+- 思考
 comments: true
 ---
 这是两个我很讨厌的网站。
