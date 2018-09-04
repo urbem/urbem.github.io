@@ -3,7 +3,7 @@ layout: post
 title: 游戏系一生
 date: 2011-12-07
 categories:
-- games
+- 游戏
 description:
 comments: true
 ---
