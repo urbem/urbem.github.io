@@ -3,7 +3,7 @@ layout: post
 title: 大问题
 date: 2018-08-27
 categories:
-- 社会
+- 思考
 comments: true
 ---
 
