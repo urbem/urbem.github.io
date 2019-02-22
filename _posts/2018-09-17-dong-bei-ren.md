@@ -3,7 +3,7 @@ layout: post
 title:  东北人
 date: 2018-09-17 17:00:00
 categories: 
- - 社会
+ - society
 --- 
  
 令人厌恶。 
