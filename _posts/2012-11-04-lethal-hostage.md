@@ -4,7 +4,7 @@ title:  邊境風雲
 date:   2012-11-04
 description:
 categories:
-- moive
+- 电影
 comments: true
 ---
 好久沒有看過電影。對於編程之外的時間，一向不知如何打發。下午試着看了一會書，電腦在旁邊開着，居然看了不少。

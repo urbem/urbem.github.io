@@ -3,7 +3,7 @@ layout: post
 title: 老友记人物分析
 date: 2015-10-12
 categories:
-- moive
+- 电影
 comments: true
 ---
 
