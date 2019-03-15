@@ -8,7 +8,6 @@ permalink: archive/index.html
 
   {% if site.posts %}
   {% for post in site.posts %}
-    {% if page.layout == 'post' %}  
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
 
