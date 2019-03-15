@@ -7,7 +7,7 @@ permalink: archive/index.html
 `Nothing is true,everything is permitted`
 
   {% if site.posts %}
-  {% assign posts = site.posts | where:'post', post.layout %}
+  {% assign posts = site.posts | where:'layout', 'post' %}
   {% for post in posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% unless year == this_year %}
