@@ -10,7 +10,7 @@ exclude: ['readme.md', 'Gemfile.lock', 'Gemfile', 'run.sh', 'CNAME']
 
 # site configuration
 # ------------------
-url: https://urbem.github.io
+url: https://hyan.in
 title: 西城
 description: 'How should I greet, with silence and tears'
 keywords: 'Life, Love, Music, Moive, Book, Reader'
