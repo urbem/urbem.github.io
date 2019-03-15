@@ -1,6 +1,8 @@
 # jekyll configuration
 # --------------------
 permalink: /:year/:month/:day/:title/
+plugins:
+    - jekyll-redirect-from
 highlighter: rouge
 paginate: 1
 markdown: kramdown
