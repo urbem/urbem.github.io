@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Detachment: The Fall of the House of Usher and Other Tales
+title: The Fall of the House of Usher and Other Tales
 date: 2019-03-17 16:25:56 +0800
 category: reprint
 comments: true
