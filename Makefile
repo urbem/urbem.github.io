@@ -15,5 +15,4 @@ BLOG_FILE := _posts/$(POST_DATE)-$(BLOG_TITLE).md
 .PHONY: blog
 blog:
 	@cat $(BLOG_TEMPLATE) | \
-	sed "s/%CURRENT_DATE%/$(POST_TIME)/g" > ${BLOG_FILE} && \
-	code ${BLOG_FILE}
+	sed "s/%CURRENT_DATE%/$(POST_TIME)/g" > ${BLOG_FILE}
