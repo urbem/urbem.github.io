@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: 存档
 permalink: archive/index.html
 ---
 

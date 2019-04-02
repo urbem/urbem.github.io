@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Links
+title: 链接
 permalink: links/index.html
 ---
 
