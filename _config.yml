@@ -20,7 +20,8 @@
 
 title: 西城
 email: hang.yan@hotmail.com
-description: "燕燕于飞，差池其羽"
+description: >
+  燕燕于飞，差池其羽 / 之子于归，远送于野
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hyan.in" # the base hostname & protocol for your site, e.g. http://example.com
 
