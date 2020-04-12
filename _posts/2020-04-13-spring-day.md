@@ -6,6 +6,6 @@ category: life
 comments: true
 ---
 
-![](/images/life/beijing-20200411.webp)
+![](https://cdn.jsdelivr.net/gh/urbem/urbem.github.io/images/life/beijing-20200411.webp)
 
 南锣鼓响南，皇城根遗址公园 / 2020-04-11
