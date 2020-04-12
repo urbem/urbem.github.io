@@ -6,6 +6,6 @@ category: life
 comments: true
 ---
 
-![](https://img3.doubanio.com/view/photo/l/public/p2595226032.webp)
+![](/images/life/beijing-20200411.webp)
 
 南锣鼓响南，皇城根遗址公园 / 2020-04-11
