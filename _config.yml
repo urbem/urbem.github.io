@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 西城
+title: 涯余
 email: hang.yan@hotmail.com
 description: >
   燕燕于飞，差池其羽 / 之子于归，远送于野
