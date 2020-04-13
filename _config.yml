@@ -28,11 +28,8 @@ url: "https://hyan.in" # the base hostname & protocol for your site, e.g. http:/
 github_username:  hangyan
 
 # Build settings
-theme: minima
+# theme: jekyll-theme-kagami
 
-minima:
- disqus:
-    shortname: yanhangyhy
 
 plugins:
   - jekyll-feed
