@@ -2,6 +2,8 @@
 layout: page
 title: 关于
 permalink: /about/
+navlevel: header
+navtitle: about
 ---
 链接
 
