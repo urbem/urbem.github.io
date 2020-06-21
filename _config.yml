@@ -60,3 +60,10 @@ twitter_username:
 instagram_username:
 disqus_shortname: yanhangyhy
 
+
+
+title: Articles
+layout: post-list
+filter:
+  - by_tag: tagname
+    by_category: category
