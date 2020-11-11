@@ -14,3 +14,8 @@ navtitle: about
 
 * [夫子](http://blog.fuzhii.com/)
 
+
+他人
+
+* [notes4yisha](https://space.bilibili.com/19083748)
+* [叶夕青兮](https://erl.im/)
