@@ -20,3 +20,5 @@ blog:
 
 s:
 	JEKYLL_ENV=production jekyll s
+install:
+	bundle
