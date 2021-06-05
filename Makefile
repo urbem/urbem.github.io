@@ -22,3 +22,7 @@ s:
 	JEKYLL_ENV=production jekyll s
 install:
 	bundle
+
+
+s-w:
+	 JEKYLL_ENV=productio bundle exec jekyll s
