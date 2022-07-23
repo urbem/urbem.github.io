@@ -8,3 +8,4 @@ _site/
 *.temp
 .jekyll-cache/
 .idea/
+*.backup
