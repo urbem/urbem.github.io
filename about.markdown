@@ -18,3 +18,4 @@ navtitle: about
 * [夫子](http://blog.fuzhii.com/)
 * [notes4yisha](https://space.bilibili.com/19083748)
 * [叶夕青兮](https://erl.im/)
+* [刘亦菲出道20周年纪念《念念不忘，必有回响》](https://www.bilibili.com/video/BV1hL4y1N7oB)
